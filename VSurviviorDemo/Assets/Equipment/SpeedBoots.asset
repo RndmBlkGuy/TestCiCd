@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceffc94f73dc62c4e96aa60974e2f246, type: 3}
+  m_Name: SpeedBoots
+  m_EditorClassIdentifier: 
+  id: S001
+  name: Speed Boots
+  icon: {fileID: 21300000, guid: 61157c883de142f40892bcbe200eeaf1, type: 3}
+  description: 
+  cost: 0
+  upgradeThreshold: 0
+  additionalSpeed: 1
