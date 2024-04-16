@@ -20,7 +20,7 @@ jobs:
         with:
           targetPlatform: x86
           projectPath: VSurviviorDemo
-          unityVersion: 2022.3.24f1
+          unityVersion: 2022.3.18f1
           buildName: VSurviviorDemoCi
           githubToken: ${{ secrets.GITHUB_TOKEN }}
       - uses: actions/upload-artifact@v3
